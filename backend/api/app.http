@@ -6,7 +6,7 @@ GET     http://localhost:8080/api/get-transactions-count
 
 ###
 #all transactions
-GET http://localhost:8080/api/transactions?search=&page=1&perPage=10
+GET http://localhost:8080/api/transactions?search=9&page=1&perPage=10
 
 ###
 # statistics
